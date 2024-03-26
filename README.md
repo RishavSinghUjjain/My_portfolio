@@ -2,7 +2,7 @@
   It's my complete portfolio project using HTML, CSS, JS, Bootstrap, ReactJs.
 
   **Image 1:**  <br/>
-  <img width="960" alt="pic1" src="https://github.com/RishavSinghUjjain/My_portfolio/assets/110776765/481eac56-6d25-42d2-b437-8454399f9a9f">
+  <img width="960" alt="pic1" src="https://github.com/RishavSinghUjjain/My_portfolio/assets/110776765/76c173ba-6e68-4159-9a7e-c8e5a6a1263d">
 
   **Image 2:**  <br/>
 <img width="960" alt="pic2" src="https://github.com/RishavSinghUjjain/My_portfolio/assets/110776765/76a873f7-6672-48fd-9732-86e5ec0bcd2f">
